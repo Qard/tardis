@@ -1,0 +1,20 @@
+{
+  "name": "tardis",
+  "version": "0.0.1",
+  "description": "Expressive timestamp generation and manipulation",
+  "main": "tardis.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "time",
+    "timestamp",
+    "date"
+  ],
+  "author": "Stephen Belanger <admin@stephenbelanger.com>",
+  "license": "BSD"
+}
