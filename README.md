@@ -1,5 +1,7 @@
 # Tardis
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Qard/tardis.svg)](https://greenkeeper.io/)
+
 Tardis provides some extensions on top of the built-in Date and Number objects in Javascript to allow for easier creation and manipulation of Date objects.
 
 ## Documentation
